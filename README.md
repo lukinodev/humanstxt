@@ -29,6 +29,8 @@ More information of this plugin and other Bludit plugins: https://jen-tak.tk/
 
 Versions
 --------
+1.1, 2020-11-16
+- Slash correction in meta tag "author"
 
 1.0, 2020-11-16
 - First Release.
