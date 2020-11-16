@@ -1,0 +1,15 @@
+{
+	"plugin-data":
+	{
+		"name": "Humans.txt",
+		"description": "Humans.txt je TXT soubor, který obsahuje informace o různých lidech, kteří přispěli k tvorbě webu."
+	},
+    "ld-humanstxt-description": "Zahrňte následující informace o každém člověku, který se podílel na projektu: role, jméno, kontakt, Twitter, locace, atd. Uvědomte si prosím, že můžete mít co do činění se spamem, pokud uvedete emailové adresy. Také můžete zahrnout dodatečné informace o webu, jako je datum poslední aktualizace (RRRR/MM/DD), základní jazyk, Doctype, ostatní komponenty, nástroje a software použitý při vývoji. Více informací: <a href=\"http://humanstxt.org/CZ/Standard.html\" target=\"_blank\" rel=\"noreferrer noopenner\">Humanstxt.org/CZ/Standard.html</a>",
+    "ld-humanstxt-card-info": "Co je Humans.txt?",
+    "ld-file": "Soubor: ",
+    "ld-donate-link": "Přispějte BTC",
+    "ld-donate-title": "Přispějte Bitcoin",
+    "ld-donate-text": "Pokud jste s tímto pluginem spokojeni, můžete ocenit autorovu snahu a podpořit tak další vývoj tohoto pluginu s drobnou částkou v BTC. Děkuji.",
+    "ld-close": "Zavřít",
+    "ld-open-humanstxt-web": "Navštivte pro více informací<br><b>Humanstxt.org</b>"
+}

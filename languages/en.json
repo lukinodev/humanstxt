@@ -1,0 +1,15 @@
+{
+	"plugin-data":
+	{
+		"name": "Humans.txt",
+		"description": "Humans.txt is TXT file that contains information about the different people who have contributed to building the website."
+	},
+    "ld-humanstxt-description": "Include the information about every human involved in the project: role, name, contact, twitter, geolocation, etc. Please be aware that you may have to deal with spam if you include email adresses. You can also include additional information about the site, such as the date of the last update (YYYY/MM/DD), its main language, its Doctype and other components, tools and software used on the development. More info: <a href=\"http://humanstxt.org/Standard.html\" target=\"_blank\" rel=\"noreferrer noopenner\">Humanstxt.org/Standard.html</a>",
+    "ld-humanstxt-card-info": "What is Humans.txt?",
+    "ld-file": "File: ",
+    "ld-donate-link": "Donate BTC",
+    "ld-donate-title": "Donate Bitcoin",
+    "ld-donate-text": "If you are satisfied with the plugin, you can appreciate the author's efforts and support the further development of the plugin with a small amount in BTC. Thanks.",
+    "ld-close": "Close",
+    "ld-open-humanstxt-web": "Visit for more info<br><b>Humanstxt.org</b>"
+}
