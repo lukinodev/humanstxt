@@ -70,7 +70,7 @@ class pluginHumanstxt extends Plugin {
         global $site;
 
         $html  = PHP_EOL . '<!-- Humans.txt -->' . PHP_EOL;
-        $html .= '<link rel="author" href="' . $site->url() . 'humans.txt" />'.PHP_EOL;
+        $html .= '<link rel="author" href="' . str_replace('//humans.txt', '/humans.txt', $site->url() . '/humans.txt' ) . '" />'.PHP_EOL;
 		return $html;
 	}
 
